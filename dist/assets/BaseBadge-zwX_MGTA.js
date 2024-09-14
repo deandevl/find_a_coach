@@ -1,0 +1,1 @@
+import{_ as s,h as o,o as n,a as p,t as r,n as c}from"./index-DId_9kSd.js";const l={__name:"BaseBadge",props:{title:{type:String},type:{type:String}},setup(t){const e=t,a=o(()=>e.title.toUpperCase());return(i,_)=>(n(),p("span",{class:c(["badge",t.type])},r(a.value),3))}},B=s(l,[["__scopeId","data-v-9b559a05"]]);export{B};

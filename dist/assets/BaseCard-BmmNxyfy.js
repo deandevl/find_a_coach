@@ -1,0 +1,1 @@
+import{_ as s,o as a,a as o,r}from"./index-DId_9kSd.js";const c={},t={class:"card"};function n(e,d){return a(),o("div",t,[r(e.$slots,"default",{},void 0)])}const f=s(c,[["render",n],["__scopeId","data-v-316e40ef"]]);export{f as B};

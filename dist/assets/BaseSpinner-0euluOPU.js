@@ -1,0 +1,1 @@
+import{_ as d,o as i,a as o,e}from"./index-DId_9kSd.js";const r={},a={class:"spinner"};function n(c,s){return i(),o("div",a,s[0]||(s[0]=[e("div",{class:"lds-roller"},[e("div"),e("div"),e("div"),e("div"),e("div"),e("div"),e("div"),e("div")],-1)]))}const v=d(r,[["render",n],["__scopeId","data-v-ce048dad"]]);export{v as B};
